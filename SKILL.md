@@ -6,6 +6,11 @@ name: dy-insight
 description: 抖音洞察数据只读：关键词搜视频/图文、用户/达人搜索、博主作品、作品详情、评论、热榜；可做公域获客/竞品截流（search→comment）与需求挖掘。触发：抖音搜索、搜用户、找达人、找对标账号、获客、线索、截流、高意向、热搜、评论、需求挖掘、痛点、作品详情、博主作品、播放量、选题、舆情、竞品。小红书、快手、B站、微博、公众号不要用本技能。sec_uid、aweme_id、douyin search、douyin user search、douyin hot、douyin detail、douyin comments。
 license: MIT
 version: 1.5.1
+display_name: "抖音洞察数据｜关键词搜索·作品表现·评论反馈·互动数据"
+display_name_en: "Douyin Insight"
+description_zh: "抖音洞察公开数据（只读）：关键词搜视频/图文、用户/达人搜索、博主作品与互动数据、作品详情、视频评论、热榜，为数据洞察提供结构化 JSON。支持公域获客/竞品截流（search→comment）与需求挖掘、痛点分析。包月超限返回 PLAN_LIMIT：视频搜索/用户搜索/作品最多 30 条，评论最多 50 条；详情与热榜无条数限制。需配置 GUAIKEI_API_TOKEN（可通过 www.guaikei.com 开通获取）。触发词：抖音数据洞察、抖音搜索、搜用户、找达人、找对标账号、获客、线索、截流、热搜、评论挖掘、作品详情、播放量、选题、舆情、竞品。小红书、快手、B站、微博、公众号不要用本技能。"
+description_en: "Read-only Douyin data: keyword/user search, creator posts, video details, comments and hot list as structured JSON."
+author: "新郑市怪奇信息技术工作室"
 metadata:
   openclaw:
     emoji: "🎬"
